@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <!-- <item
+        android:id="@+id/login"
+        android:title="Bejelentkezés"
+        android:icon="@drawable/ic_menu_login"
+        app:showAsAction="always"
+        /> -->
+</menu>

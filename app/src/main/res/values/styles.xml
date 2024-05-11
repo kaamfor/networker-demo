@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ItemEditorDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+<!--        <item name="android:statusBarColor">#280680</item>-->
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Theme.AppCompat.Dialog</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">10dp</item>
+<!--        <item name="cardCornerRadius">10dp</item>-->
+    </style>
+</resources>
